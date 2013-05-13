@@ -20,6 +20,7 @@ public class SampleAction implements IWorkbenchWindowActionDelegate {
 	 * The constructor.
 	 */
 	public SampleAction() {
+		//edit
 	}
 
 	/**
